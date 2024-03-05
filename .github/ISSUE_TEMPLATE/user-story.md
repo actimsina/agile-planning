@@ -7,9 +7,12 @@ assignees: ''
 
 ---
 
-**As a ** [role]
-**I need ** [some function]
-**So that ** [some benefit]
+**As a** [role]
+
+**I need** [some function]
+
+**So that** [some benefit]
+
 
 ### Details and Assumptions
 
